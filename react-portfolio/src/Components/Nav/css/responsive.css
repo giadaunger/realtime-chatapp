@@ -1,0 +1,27 @@
+@media screen and (min-width: 550px) {
+    .nav-li{
+      font-size: 1.7em;
+    }
+  }
+
+@media screen and (min-width: 700px) {
+    .nav-li{
+      font-size: 1.8em;
+      margin-right: 20px;
+    }
+
+    .nav-ul{
+        margin-bottom: 20px;
+    }
+  }
+
+  @media screen and (min-width: 1000px) {
+    .nav-li{
+      font-size: 2em;
+      margin-right: 100px;
+    }
+
+    .nav-ul{
+      margin-bottom: 30px;
+  }
+  }

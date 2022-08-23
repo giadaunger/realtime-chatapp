@@ -1,0 +1,33 @@
+.banner{
+    width:100%;
+}
+
+.btn-div{
+    display: flex;
+    justify-content: center;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 30ch;
+    margin-top: 20px;
+}
+
+.btn-ul{
+    list-style-type: none;
+    padding: 10px;
+}
+
+.btn{
+    width: 30ch;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 25px;
+    border: 2px solid #446abb;
+    color: #446abb;
+    background-color: white;
+    box-shadow: 10px 10px 5px rgb(173, 186, 230);
+}
+
+.btn:hover{
+    color: white;
+    background-color: #446abb;
+}
